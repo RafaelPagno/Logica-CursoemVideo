@@ -1,0 +1,2 @@
+## Curso em Vídeo
+Esse repositório é referente ao [curso](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) de lógica de programação do canal Curso em Vídeo no [Youtube](https://www.youtube.com/).
